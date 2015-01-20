@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 3222733b3395647c8a6e43115b76ed7d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasEnemyPlantDeath(300x300)_0
+    21300002: atlasEnemyPlantDeath(300x300)_1
+    21300004: atlasEnemyPlantDeath(300x300)_2
+    21300006: atlasEnemyPlantDeath(300x300)_3
+    21300008: atlasEnemyPlantDeath(300x300)_4
+    21300010: atlasEnemyPlantDeath(300x300)_5
+    21300012: atlasEnemyPlantDeath(300x300)_6
+    21300014: atlasEnemyPlantDeath(300x300)_7
+    21300016: atlasEnemyPlantDeath(300x300)_8
+    21300018: atlasEnemyPlantDeath(300x300)_9
+    21300020: atlasEnemyPlantDeath(300x300)_10
+    21300022: atlasEnemyPlantDeath(300x300)_11
+    21300024: atlasEnemyPlantDeath(300x300)_12
+    21300026: atlasEnemyPlantDeath(300x300)_13
+    21300028: atlasEnemyPlantDeath(300x300)_14
+    21300030: atlasEnemyPlantDeath(300x300)_15
+    21300032: atlasEnemyPlantDeath(300x300)_16
+    21300034: atlasEnemyPlantDeath(300x300)_17
+    21300036: atlasEnemyPlantDeath(300x300)_18
+    21300038: atlasEnemyPlantDeath(300x300)_19
+    21300040: atlasEnemyPlantDeath(300x300)_20
+    21300042: atlasEnemyPlantDeath(300x300)_21
+    21300044: atlasEnemyPlantDeath(300x300)_22
+    21300046: atlasEnemyPlantDeath(300x300)_23
+    21300048: atlasEnemyPlantDeath(300x300)_24
+    21300050: atlasEnemyPlantDeath(300x300)_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasEnemyPlantDeath(300x300)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 301
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyPlantDeath(300x300)_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

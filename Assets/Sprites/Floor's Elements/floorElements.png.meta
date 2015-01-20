@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: c632a4013970e4b46b9a20a8e67aa9ad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floorElements_0
+    21300002: floorElements_1
+    21300004: floorElements_2
+    21300006: floorElements_3
+    21300008: floorElements_4
+    21300010: floorElements_5
+    21300012: floorElements_6
+    21300014: floorElements_7
+    21300016: floorElements_8
+    21300018: floorElements_9
+    21300020: floorElements_10
+    21300022: floorElements_11
+    21300024: floorElements_12
+    21300026: floorElements_13
+    21300028: floorElements_14
+    21300030: floorElements_15
+    21300032: floorElements_16
+    21300034: floorElements_17
+    21300036: floorElements_18
+    21300038: floorElements_19
+    21300040: floorElements_20
+    21300042: floorElements_21
+    21300044: floorElements_22
+    21300046: floorElements_23
+    21300048: floorElements_24
+    21300050: floorElements_25
+    21300052: floorElements_26
+    21300054: floorElements_27
+    21300056: floorElements_28
+    21300058: floorElements_29
+    21300060: floorElements_30
+    21300062: floorElements_31
+    21300064: floorElements_32
+    21300066: floorElements_33
+    21300068: floorElements_34
+    21300070: floorElements_35
+    21300072: floorElements_36
+    21300074: floorElements_37
+    21300076: floorElements_38
+    21300078: floorElements_39
+    21300080: floorElements_40
+    21300082: floorElements_41
+    21300084: floorElements_42
+    21300086: floorElements_43
+    21300088: floorElements_44
+    21300090: floorElements_45
+    21300092: floorElements_46
+    21300094: floorElements_47
+    21300096: floorElements_48
+    21300098: floorElements_49
+    21300100: floorElements_50
+    21300102: floorElements_51
+    21300104: floorElements_52
+    21300106: floorElements_53
+    21300108: floorElements_54
+    21300110: floorElements_55
+    21300112: floorElements_56
+    21300114: floorElements_57
+    21300116: floorElements_58
+    21300118: floorElements_59
+    21300120: floorElements_60
+    21300122: floorElements_61
+    21300124: floorElements_62
+    21300126: floorElements_63
+    21300128: floorElements_64
+    21300130: floorElements_65
+    21300132: floorElements_66
+    21300134: floorElements_67
+    21300136: floorElements_68
+    21300138: floorElements_69
+    21300140: floorElements_70
+    21300142: floorElements_71
+    21300144: floorElements_72
+    21300146: floorElements_73
+    21300148: floorElements_74
+    21300150: floorElements_75
+    21300152: floorElements_76
+    21300154: floorElements_77
+    21300156: floorElements_78
+    21300158: floorElements_79
+    21300160: floorElements_80
+    21300162: floorElements_81
+    21300164: floorElements_82
+    21300166: floorElements_83
+    21300168: floorElements_84
+    21300170: floorElements_85
+    21300172: floorElements_86
+    21300174: floorElements_87
+    21300176: floorElements_88
+    21300178: floorElements_89
+    21300180: floorElements_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: floorElements_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 489
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 474
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 491
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 488
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 483
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 473
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 474
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 476
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 484
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 478
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 477
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 472
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 483
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 476
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 476
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 470
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 461
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 470
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 450
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 455
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 432
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 408
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 441
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 438
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 439
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 440
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 439
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 428
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 431
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 433
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 434
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 424
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 422
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 429
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 422
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 364
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_46
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 335
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 374
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 371
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 364
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 286
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 278
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_56
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 288
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 302
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 287
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_60
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 282
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_61
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 257
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 256
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 255
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 255
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 249
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_66
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 255
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 246
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 249
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 241
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_70
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 240
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 237
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_72
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 246
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 244
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_75
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 248
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 242
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_79
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 246
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 230
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 225
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_86
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 219
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_89
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 224
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: floorElements_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
