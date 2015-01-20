@@ -5898,7 +5898,7 @@ MonoBehaviour:
   _buttonJump: {fileID: 1407879468}
   _PlayerDead: {fileID: 149830, guid: 6175cc4907b9c4d64a6ddb149cb4a2ff, type: 2}
   _currentPlayerPhysState: 0
-  _forceJump: 800
+  _forceJump: 400
 --- !u!114 &991868309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5915,7 +5915,7 @@ MonoBehaviour:
   _buttonJump: {fileID: 1407879468}
   _buttonLeft: {fileID: 1077234428}
   _buttonRight: {fileID: 945617460}
-  _forceJump: 400
+  _forceJump: 800
 --- !u!95 &991868310
 Animator:
   serializedVersion: 3
