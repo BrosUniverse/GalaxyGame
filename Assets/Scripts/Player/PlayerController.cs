@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour {
 
 	private bool _jump = false;
 
-	public float _forceJump = 400f;
+	public float _forceJump = 800f;
 	private float _maxSpeedJump = 2f;
 
 	private float _distToGround;
