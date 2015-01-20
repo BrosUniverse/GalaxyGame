@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: e083242268c4c4421a51c184bd18d6c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasEnemyFireWalk(300x350)_0
+    21300002: atlasEnemyFireWalk(300x350)_1
+    21300004: atlasEnemyFireWalk(300x350)_2
+    21300006: atlasEnemyFireWalk(300x350)_3
+    21300008: atlasEnemyFireWalk(300x350)_4
+    21300010: atlasEnemyFireWalk(300x350)_5
+    21300012: atlasEnemyFireWalk(300x350)_6
+    21300014: atlasEnemyFireWalk(300x350)_7
+    21300016: atlasEnemyFireWalk(300x350)_8
+    21300018: atlasEnemyFireWalk(300x350)_9
+    21300020: atlasEnemyFireWalk(300x350)_10
+    21300022: atlasEnemyFireWalk(300x350)_11
+    21300024: atlasEnemyFireWalk(300x350)_12
+    21300026: atlasEnemyFireWalk(300x350)_13
+    21300028: atlasEnemyFireWalk(300x350)_14
+    21300030: atlasEnemyFireWalk(300x350)_15
+    21300032: atlasEnemyFireWalk(300x350)_16
+    21300034: atlasEnemyFireWalk(300x350)_17
+    21300036: atlasEnemyFireWalk(300x350)_18
+    21300038: atlasEnemyFireWalk(300x350)_19
+    21300040: atlasEnemyFireWalk(300x350)_20
+    21300042: atlasEnemyFireWalk(300x350)_21
+    21300044: atlasEnemyFireWalk(300x350)_22
+    21300046: atlasEnemyFireWalk(300x350)_23
+    21300048: atlasEnemyFireWalk(300x350)_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasEnemyFireWalk(300x350)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 350
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasEnemyFireWalk(300x350)_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

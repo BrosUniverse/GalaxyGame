@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: da0d1370eb77749dc87df71b7fbac1fc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasGasolin(150x256)_0
+    21300002: atlasGasolin(150x256)_1
+    21300004: atlasGasolin(150x256)_2
+    21300006: atlasGasolin(150x256)_3
+    21300008: atlasGasolin(150x256)_4
+    21300010: atlasGasolin(150x256)_5
+    21300012: atlasGasolin(150x256)_6
+    21300014: atlasGasolin(150x256)_7
+    21300016: atlasGasolin(150x256)_8
+    21300018: atlasGasolin(150x256)_9
+    21300020: atlasGasolin(150x256)_10
+    21300022: atlasGasolin(150x256)_11
+    21300024: atlasGasolin(150x256)_12
+    21300026: atlasGasolin(150x256)_13
+    21300028: atlasGasolin(150x256)_14
+    21300030: atlasGasolin(150x256)_15
+    21300032: atlasGasolin(150x256)_16
+    21300034: atlasGasolin(150x256)_17
+    21300036: atlasGasolin(150x256)_18
+    21300038: atlasGasolin(150x256)_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasGasolin(150x256)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 256
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasGasolin(150x256)_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 150
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

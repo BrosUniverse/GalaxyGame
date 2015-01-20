@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 831f74d11602145829696bb860319c8c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasLiquidToGasMorphing(330x256)_0
+    21300002: atlasLiquidToGasMorphing(330x256)_1
+    21300004: atlasLiquidToGasMorphing(330x256)_2
+    21300006: atlasLiquidToGasMorphing(330x256)_3
+    21300008: atlasLiquidToGasMorphing(330x256)_4
+    21300010: atlasLiquidToGasMorphing(330x256)_5
+    21300012: atlasLiquidToGasMorphing(330x256)_6
+    21300014: atlasLiquidToGasMorphing(330x256)_7
+    21300016: atlasLiquidToGasMorphing(330x256)_8
+    21300018: atlasLiquidToGasMorphing(330x256)_9
+    21300020: atlasLiquidToGasMorphing(330x256)_10
+    21300022: atlasLiquidToGasMorphing(330x256)_11
+    21300024: atlasLiquidToGasMorphing(330x256)_12
+    21300026: atlasLiquidToGasMorphing(330x256)_13
+    21300028: atlasLiquidToGasMorphing(330x256)_14
+    21300030: atlasLiquidToGasMorphing(330x256)_15
+    21300032: atlasLiquidToGasMorphing(330x256)_16
+    21300034: atlasLiquidToGasMorphing(330x256)_17
+    21300036: atlasLiquidToGasMorphing(330x256)_18
+    21300038: atlasLiquidToGasMorphing(330x256)_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasLiquidToGasMorphing(330x256)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_5
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_6
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_7
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_8
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_9
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 256
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_13
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_15
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_16
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_17
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_18
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasLiquidToGasMorphing(330x256)_19
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 330
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 4c2ceccacb14f4ce39c896fa9e0224a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elementsLevel_0
+    21300002: elementsLevel_1
+    21300004: elementsLevel_2
+    21300006: elementsLevel_3
+    21300008: elementsLevel_4
+    21300010: elementsLevel_5
+    21300012: elementsLevel_6
+    21300014: elementsLevel_7
+    21300016: elementsLevel_8
+    21300018: elementsLevel_9
+    21300020: elementsLevel_10
+    21300022: elementsLevel_11
+    21300024: elementsLevel_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: elementsLevel_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 224
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 227
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 227
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 162
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 161
+        width: 89
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 163
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 84
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elementsLevel_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 99
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
