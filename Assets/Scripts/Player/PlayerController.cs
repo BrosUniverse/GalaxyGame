@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour {
 
 	private bool _jump = false;
 
-	public float _forceJump = 800f;
+	public float _forceJump = 400f;
 	private float _maxSpeedJump = 2f;
 
 	private float _distToGround;
@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour {
 	{
 		_anim.SetBool ("JumpStart", false);
 		_anim.SetBool ("Grounded", false);
-		rigidbody2D.AddForce (Vector2.up * 800f);
+		rigidbody2D.AddForce (Vector2.up * _forceJump);
 		Debug.Log ("JumpStart");
 	}
 
