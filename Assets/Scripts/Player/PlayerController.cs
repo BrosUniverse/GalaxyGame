@@ -40,14 +40,8 @@ public class PlayerController : MonoBehaviour {
 
 	void Update () 
 	{
-
-	}
-
-	private void FixedUpdate () 
-	{
-
-#if UNITY_IOS
-			
+		#if UNITY_IOS
+		
 		foreach (Touch __touch in Input.touches)
 		{
 			if (_buttonLeft.HitTest (__touch.position) && __touch.phase == TouchPhase.Stationary)
@@ -81,24 +75,24 @@ public class PlayerController : MonoBehaviour {
 		}
 		
 		_anim.SetFloat ("Speed", Mathf.Abs (_velosityX));
-
-#endif
-
-#if UNITY_EDITOR_OSX
-
+		
+		#endif
+		
+		#if UNITY_EDITOR_OSX
+		
 		_velosityX = Input.GetAxis ("Horizontal");
 		_anim.SetFloat ("Speed", Mathf.Abs (_velosityX));
-
+		
 		if (Input.GetKeyDown(KeyCode.Space))
 		{
 			_anim.SetBool ("JumpStart", true);
 		}
-
+		
 		rigidbody2D.velocity = new Vector2 (_velosityX *_maxSpeed, rigidbody2D.velocity.y);
-#endif
-
+		#endif
+		
 		_anim.SetFloat ("SpeedV", rigidbody2D.velocity.y);
-
+		
 		if (_velosityX > 0 && !_isFacingRight) 
 		{
 			Flip();
@@ -107,6 +101,11 @@ public class PlayerController : MonoBehaviour {
 		{
 			Flip();
 		}
+	}
+
+	void FixedUpdate () 
+	{
+
 	}
 
 	private void Flip () 

@@ -52,6 +52,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Solid");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlayerPhysicalStateSolid;
+				gameObject.GetComponent<BoxCollider2D>().enabled = true;
 				_anim.SetInteger("State", 0);
 			}
 			
@@ -59,6 +60,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Liquid");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlayerPhisicalStateLiquid;
+				gameObject.GetComponent<BoxCollider2D>().enabled = false;
 				_anim.SetInteger("State", 1);
 			}
 			
@@ -66,6 +68,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Gas");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlyerPhysicalStateGas;
+				gameObject.GetComponent<BoxCollider2D>().enabled = true;
 				_anim.SetInteger("State", 2);
 			}
 		}
@@ -78,6 +81,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Solid");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlayerPhysicalStateSolid;
+				gameObject.GetComponent<BoxCollider2D>().enabled = true;
 				_anim.SetInteger("State", 0);
 			}
 				
@@ -85,6 +89,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Solid");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlayerPhisicalStateLiquid;
+				gameObject.GetComponent<BoxCollider2D>().enabled = false;
 				_anim.SetInteger("State", 1);
 			}
 				
@@ -92,6 +97,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Solid");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlyerPhysicalStateGas;
+				gameObject.GetComponent<BoxCollider2D>().enabled = true;
 				_anim.SetInteger("State", 2);
 			}
 				
