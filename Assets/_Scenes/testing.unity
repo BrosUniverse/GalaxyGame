@@ -2271,7 +2271,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 395348818}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -2836,7 +2836,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11482426, guid: 443cb4d68e56f4351a2a070a8ab4469e, type: 2}
       propertyPath: _maxSpeed
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 443cb4d68e56f4351a2a070a8ab4469e, type: 2}
@@ -5934,7 +5934,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1056088283}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -6775,7 +6775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38bb48649ccc142328c0c1ffe5fde3c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxSpeed: 10
+  _maxSpeed: 20
   _keyboard: 0
   _buttonJump: {fileID: 1407879468}
   _buttonLeft: {fileID: 1077234428}
@@ -7089,7 +7089,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1248785689}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -7923,7 +7923,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1446042048}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -8916,7 +8916,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1639019916}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -10262,7 +10262,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1776013412}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -10907,7 +10907,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1889221129}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
@@ -11052,7 +11052,7 @@ PolygonCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1919462024}
   m_Enabled: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
   m_IsTrigger: 0
   m_Poly:
     m_Paths:
