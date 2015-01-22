@@ -8,4 +8,10 @@ public class PlanetMapManager : MonoBehaviour {
 		Debug.Log ("LoadLevel_1");
 		Application.LoadLevel ("testing");
 	}
+
+	public void Back ()
+	{
+		Debug.Log ("Back");
+		Application.LoadLevel ("Galaxy");
+	}
 }
