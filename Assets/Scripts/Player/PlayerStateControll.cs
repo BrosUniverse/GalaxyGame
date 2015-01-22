@@ -33,6 +33,7 @@ public class PlayerStateControll : MonoBehaviour {
 	void Attack ()
 	{
 		_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
+		_attackedEnemy.collider2D.enabled = false;
 		_anim.SetBool ("Attack", false);
 		Debug.Log ("Attack");
 	}
@@ -112,7 +113,7 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			_attackedEnemy.collider2D.enabled = false;
+			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemySolid" && _currentPlayerPhysState != (int)kPlayerStates.kPlayerPhysicalStateSolid)
@@ -125,7 +126,7 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			_attackedEnemy.collider2D.enabled = false;
+			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemyLiquid" && _currentPlayerPhysState != (int)kPlayerStates.kPlayerPhisicalStateLiquid)
@@ -138,7 +139,7 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			_attackedEnemy.collider2D.enabled = false;
+			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemyGas" && _currentPlayerPhysState != (int)kPlayerStates.kPlyerPhysicalStateGas)

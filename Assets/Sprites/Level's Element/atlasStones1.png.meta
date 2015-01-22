@@ -1,21 +1,20 @@
 fileFormatVersion: 2
-guid: ac4d17d9d87e74d618f8a9f053874d5c
+guid: 483cc806d6eda4311819707d686ee953
 TextureImporter:
   fileIDToRecycleName:
-    21300000: atlasPlayerSolidIddle(330x256)-01_0
-    21300002: atlasPlayerSolidIddle(330x256)-01_1
-    21300004: atlasPlayerSolidIddle(330x256)-01_2
-    21300006: atlasPlayerSolidIddle(330x256)-01_3
-    21300008: atlasPlayerSolidIddle(330x256)-01_4
-    21300010: atlasPlayerSolidIddle(330x256)-01_5
-    21300012: atlasPlayerSolidIddle(330x256)-01_6
-    21300014: atlasPlayerSolidIddle(330x256)-01_7
-    21300016: atlasPlayerSolidIddle(330x256)-01_8
-    21300018: atlasPlayerSolidIddle(330x256)-01_9
-    21300020: atlasPlayerSolidIddle(330x256)-01_10
-    21300022: atlasPlayerSolidIddle(330x256)-01_11
-    21300024: atlasPlayerSolidIddle(330x256)-01_12
-    21300026: atlasPlayerSolidIddle(330x256)-01_13
+    21300000: atlasStones1_0
+    21300002: atlasStones1_1
+    21300004: atlasStones1_2
+    21300006: atlasStones1_3
+    21300008: atlasStones1_4
+    21300010: atlasStones1_5
+    21300012: atlasStones1_6
+    21300014: atlasStones1_7
+    21300016: atlasStones1_8
+    21300018: atlasStones1_9
+    21300020: atlasStones1_10
+    21300022: atlasStones1_11
+    21300024: atlasStones1_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,143 +60,133 @@ TextureImporter:
     compressionQuality: 100
   spriteSheet:
     sprites:
-    - name: atlasPlayerSolidIddle(330x256)-01_0
+    - name: atlasStones1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 330
-        height: 256
+        x: 240
+        y: 1252
+        width: 479
+        height: 317
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_1
+    - name: atlasStones1_1
       rect:
         serializedVersion: 2
-        x: 330
-        y: 0
-        width: 330
-        height: 256
+        x: 838
+        y: 1249
+        width: 235
+        height: 196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_2
+    - name: atlasStones1_2
       rect:
         serializedVersion: 2
-        x: 660
-        y: 0
-        width: 330
-        height: 256
+        x: 1279
+        y: 1235
+        width: 462
+        height: 325
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_3
+    - name: atlasStones1_3
       rect:
         serializedVersion: 2
-        x: 990
-        y: 0
-        width: 330
-        height: 256
+        x: 1803
+        y: 1262
+        width: 361
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_4
+    - name: atlasStones1_4
       rect:
         serializedVersion: 2
-        x: 1320
-        y: 0
-        width: 330
-        height: 256
+        x: 2211
+        y: 1269
+        width: 477
+        height: 303
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_5
+    - name: atlasStones1_5
       rect:
         serializedVersion: 2
-        x: 1650
-        y: 0
-        width: 330
-        height: 256
+        x: 187
+        y: 823
+        width: 419
+        height: 247
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_6
+    - name: atlasStones1_6
       rect:
         serializedVersion: 2
-        x: 1980
-        y: 0
-        width: 330
-        height: 256
+        x: 691
+        y: 821
+        width: 439
+        height: 229
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_7
+    - name: atlasStones1_7
       rect:
         serializedVersion: 2
-        x: 2310
-        y: 0
-        width: 330
-        height: 256
+        x: 1270
+        y: 787
+        width: 659
+        height: 303
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_8
+    - name: atlasStones1_8
       rect:
         serializedVersion: 2
-        x: 2640
-        y: 0
-        width: 330
-        height: 256
+        x: 2068
+        y: 796
+        width: 598
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_9
+    - name: atlasStones1_9
       rect:
         serializedVersion: 2
-        x: 2970
-        y: 0
-        width: 330
-        height: 256
+        x: 279
+        y: 221
+        width: 260
+        height: 412
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_10
+    - name: atlasStones1_10
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 0
-        width: 330
-        height: 256
+        x: 635
+        y: 246
+        width: 333
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_11
+    - name: atlasStones1_11
       rect:
         serializedVersion: 2
-        x: 3630
-        y: 0
-        width: 330
-        height: 256
+        x: 1156
+        y: 147
+        width: 295
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_12
+    - name: atlasStones1_12
       rect:
         serializedVersion: 2
-        x: 3960
-        y: 0
-        width: 330
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_13
-      rect:
-        serializedVersion: 2
-        x: 4290
-        y: 0
-        width: 330
-        height: 256
+        x: 1669
+        y: 341
+        width: 415
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

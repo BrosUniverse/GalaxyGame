@@ -1,21 +1,19 @@
 fileFormatVersion: 2
-guid: cde9d08455af04646aadf8e2d7ed0757
+guid: 99ca118cb26e74afc9345a2b14070d67
 TextureImporter:
   fileIDToRecycleName:
-    21300000: atlasEnemyFireIdle(300x350)_0
-    21300002: atlasEnemyFireIdle(300x350)_1
-    21300004: atlasEnemyFireIdle(300x350)_2
-    21300006: atlasEnemyFireIdle(300x350)_3
-    21300008: atlasEnemyFireIdle(300x350)_4
-    21300010: atlasEnemyFireIdle(300x350)_5
-    21300012: atlasEnemyFireIdle(300x350)_6
-    21300014: atlasEnemyFireIdle(300x350)_7
-    21300016: atlasEnemyFireIdle(300x350)_8
-    21300018: atlasEnemyFireIdle(300x350)_9
-    21300020: atlasEnemyFireIdle(300x350)_10
-    21300022: atlasEnemyFireIdle(300x350)_11
-    21300024: atlasEnemyFireIdle(300x350)_12
-    21300026: atlasEnemyFireIdle(300x350)_13
+    21300000: atlasHorizontalPlatforms_0
+    21300002: atlasHorizontalPlatforms_1
+    21300004: atlasHorizontalPlatforms_2
+    21300006: atlasHorizontalPlatforms_3
+    21300008: atlasHorizontalPlatforms_4
+    21300010: atlasHorizontalPlatforms_5
+    21300012: atlasHorizontalPlatforms_6
+    21300014: atlasHorizontalPlatforms_7
+    21300016: atlasHorizontalPlatforms_8
+    21300018: atlasHorizontalPlatforms_9
+    21300020: atlasHorizontalPlatforms_10
+    21300022: atlasHorizontalPlatforms_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,143 +59,123 @@ TextureImporter:
     compressionQuality: 100
   spriteSheet:
     sprites:
-    - name: atlasEnemyFireIdle(300x350)_0
+    - name: atlasHorizontalPlatforms_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1300
+        width: 1215
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasHorizontalPlatforms_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 350
-        width: 300
-        height: 350
+        y: 900
+        width: 518
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_1
+    - name: atlasHorizontalPlatforms_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 350
-        width: 300
-        height: 350
+        x: 591
+        y: 900
+        width: 227
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_2
+    - name: atlasHorizontalPlatforms_3
       rect:
         serializedVersion: 2
-        x: 600
-        y: 350
-        width: 300
-        height: 350
+        x: 891
+        y: 900
+        width: 327
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_3
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 350
-        width: 300
-        height: 350
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_4
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 350
-        width: 300
-        height: 350
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_5
-      rect:
-        serializedVersion: 2
-        x: 1500
-        y: 350
-        width: 300
-        height: 350
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_6
-      rect:
-        serializedVersion: 2
-        x: 1800
-        y: 350
-        width: 300
-        height: 350
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_7
+    - name: atlasHorizontalPlatforms_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 300
-        height: 350
+        y: 600
+        width: 622
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_8
+    - name: atlasHorizontalPlatforms_5
       rect:
         serializedVersion: 2
-        x: 300
-        y: 0
-        width: 300
-        height: 350
+        x: 800
+        y: 600
+        width: 432
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_9
+    - name: atlasHorizontalPlatforms_6
       rect:
         serializedVersion: 2
-        x: 600
-        y: 0
-        width: 300
-        height: 350
+        x: 3
+        y: 400
+        width: 511
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_10
+    - name: atlasHorizontalPlatforms_7
       rect:
         serializedVersion: 2
-        x: 900
-        y: 0
-        width: 300
-        height: 350
+        x: 603
+        y: 400
+        width: 211
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_11
+    - name: atlasHorizontalPlatforms_8
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 300
-        height: 350
+        x: 903
+        y: 400
+        width: 311
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_12
+    - name: atlasHorizontalPlatforms_9
       rect:
         serializedVersion: 2
-        x: 1500
-        y: 0
-        width: 300
-        height: 350
+        x: 3
+        y: 200
+        width: 611
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasEnemyFireIdle(300x350)_13
+    - name: atlasHorizontalPlatforms_10
       rect:
         serializedVersion: 2
-        x: 1800
+        x: 803
+        y: 200
+        width: 411
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasHorizontalPlatforms_11
+      rect:
+        serializedVersion: 2
+        x: 3
         y: 0
-        width: 300
-        height: 350
+        width: 1211
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
