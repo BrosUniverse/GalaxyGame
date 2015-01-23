@@ -7906,7 +7906,7 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 1819650358}
   m_GameObject: {fileID: 1182443566}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 34382083ad114a07d000fbfb8d76c639, type: 3}
   m_Name: 
@@ -12313,7 +12313,7 @@ Prefab:
       objectReference: {fileID: 1647176769}
     - target: {fileID: 11429846, guid: 443cb4d68e56f4351a2a070a8ab4469e, type: 2}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11429846, guid: 443cb4d68e56f4351a2a070a8ab4469e, type: 2}
       propertyPath: blurShader

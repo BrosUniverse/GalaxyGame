@@ -23,8 +23,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 197322}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.54999995, y: -.289999992, z: 10.0507812}
-  m_LocalScale: {x: 0, y: 0, z: 1}
+  m_LocalPosition: {x: -2.54481006, y: -.264911711, z: 6.578125}
+  m_LocalScale: {x: 0, y: 0, z: 1.03571415}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -39,8 +39,8 @@ GUITexture:
   m_Color: {r: .5, g: .5, b: .5, a: .5}
   m_PixelInset:
     serializedVersion: 2
-    x: 10
-    y: 10
+    x: 0
+    y: 0
     width: 96
     height: 96
   m_LeftBorder: 0
