@@ -113,7 +113,6 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemySolid" && _currentPlayerPhysState != (int)kPlayerStates.kPlayerPhysicalStateSolid)
@@ -126,7 +125,6 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemyLiquid" && _currentPlayerPhysState != (int)kPlayerStates.kPlayerPhisicalStateLiquid)
@@ -139,7 +137,6 @@ public class PlayerStateControll : MonoBehaviour {
 		{
 			_attackedEnemy = __col.gameObject;
 			_attackedEnemy.GetComponent<EnemyStateMashine>().Death ();
-			//_attackedEnemy.collider2D.enabled = false;
 			_anim.SetBool ("Attack", true);
 		}
 		else if (__col.gameObject.tag == "EnemyGas" && _currentPlayerPhysState != (int)kPlayerStates.kPlyerPhysicalStateGas)
@@ -170,6 +167,29 @@ public class PlayerStateControll : MonoBehaviour {
 				Application.LoadLevel ("Level_1");
 			}
 		}
+
+		if (__col.gameObject.tag == "FlowDown" && _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid)
+		{
+			Debug.Log ("FlowDown");
+			gameObject.GetComponent<CircleCollider2D>().radius = 0.1f;
+		}
 	}
 
+	void OnTriggerExit2D (Collider2D __col)
+	{
+		if (__col.gameObject.tag == "FlowDown" && _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid)
+		{
+			Debug.Log ("FlowDown");
+			gameObject.GetComponent<CircleCollider2D>().radius = 0.395f;
+		}
+	}
+
+	void OnTriggerStay2D (Collider2D __col)
+	{
+		if (__col.gameObject.tag == "Windup" && _currentPlayerPhysState == (int)kPlayerStates.kPlyerPhysicalStateGas)
+		{
+			Debug.Log ("Windup");
+			rigidbody2D.AddRelativeForce (Vector2.up * 15.5f);
+		}
+	}
 }

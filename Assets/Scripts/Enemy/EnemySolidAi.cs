@@ -95,30 +95,7 @@ public class EnemySolidAi : MonoBehaviour {
 
 	void OnCollisionEnter2D (Collision2D __col) 
 	{
-		/*if (__col.gameObject.tag == "Wall") 
-		{
 
-			Vector2 __contactPoint = __col.contacts[0].point;
-			Vector2 __center = __col.collider.bounds.center;
-
-			bool __rightContact = __contactPoint.x > __center.x;
-			bool __leftContact = __contactPoint.x < __center.x;
-			//bool __top = __contactPoint.y > __center.y;
-
-			if (__rightContact)
-			{
-				Debug.Log ("COLLISION_LEFT");
-				_stateMachine.collisionState = StateMachine.CollisionState.COLLISION_LEFT;
-				_esm.IsCollisingLeft ();
-			}
-
-			if (__leftContact)
-			{
-				Debug.Log ("COLLISION_RIGHT");
-				_stateMachine.collisionState = StateMachine.CollisionState.COLLISION_RIGHT;
-				_esm.IsCollisingRight ();
-			}
-		}*/
 	}
 
 	void OnTriggerEnter2D (Collider2D __col)

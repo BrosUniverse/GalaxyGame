@@ -98,9 +98,4 @@ public class GameManager : MonoBehaviour {
 		_amountKilledMonsters = 
 		_score = 0;
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }
