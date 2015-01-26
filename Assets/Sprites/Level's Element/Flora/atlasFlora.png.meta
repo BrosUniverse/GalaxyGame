@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 316b0672a2c46469ca740fa1205e8e15
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasFlora_0
+    21300002: atlasFlora_1
+    21300004: atlasFlora_2
+    21300006: atlasFlora_3
+    21300008: atlasFlora_4
+    21300010: atlasFlora_5
+    21300012: atlasFlora_6
+    21300014: atlasFlora_7
+    21300016: atlasFlora_8
+    21300018: atlasFlora_9
+    21300020: atlasFlora_10
+    21300022: atlasFlora_11
+    21300024: atlasFlora_12
+    21300026: atlasFlora_13
+    21300028: atlasFlora_14
+    21300030: atlasFlora_15
+    21300032: atlasFlora_16
+    21300034: atlasFlora_17
+    21300036: atlasFlora_18
+    21300038: atlasFlora_19
+    21300040: atlasFlora_20
+    21300042: atlasFlora_21
+    21300044: atlasFlora_22
+    21300046: atlasFlora_23
+    21300048: atlasFlora_24
+    21300050: atlasFlora_25
+    21300052: atlasFlora_26
+    21300054: atlasFlora_27
+    21300056: atlasFlora_28
+    21300058: atlasFlora_29
+    21300060: atlasFlora_30
+    21300062: atlasFlora_31
+    21300064: atlasFlora_32
+    21300066: atlasFlora_33
+    21300068: atlasFlora_34
+    21300070: atlasFlora_35
+    21300072: atlasFlora_36
+    21300074: atlasFlora_37
+    21300076: atlasFlora_38
+    21300078: atlasFlora_39
+    21300080: atlasFlora_40
+    21300082: atlasFlora_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasFlora_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1956
+        width: 167
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1945
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1945
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1959
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1968
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_5
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1966
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1962
+        width: 139
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_7
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1943
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1943
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_9
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1957
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_10
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1962
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_11
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1958
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1573
+        width: 231
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1557
+        width: 420
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_14
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1562
+        width: 352
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_15
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1553
+        width: 325
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_16
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1545
+        width: 233
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_17
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1519
+        width: 316
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1242
+        width: 216
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1220
+        width: 254
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_20
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1174
+        width: 385
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_21
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1158
+        width: 597
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_22
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1173
+        width: 325
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_23
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1159
+        width: 420
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 902
+        width: 216
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 903
+        width: 254
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 794
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_27
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 771
+        width: 512
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 601
+        width: 216
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 549
+        width: 254
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_30
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 411
+        width: 390
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_31
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 370
+        width: 193
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_32
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 365
+        width: 272
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_33
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 361
+        width: 176
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 193
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 135
+        width: 272
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_36
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 358
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_37
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 82
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_38
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 10
+        width: 176
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_39
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 28
+        width: 328
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 29
+        width: 328
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasFlora_41
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 17
+        width: 231
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

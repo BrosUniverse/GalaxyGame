@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 7960b5166a0dc49c19deb1e3eca0c53a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlasStones&Bones_0
+    21300002: atlasStones&Bones_1
+    21300004: atlasStones&Bones_2
+    21300006: atlasStones&Bones_3
+    21300008: atlasStones&Bones_4
+    21300010: atlasStones&Bones_5
+    21300012: atlasStones&Bones_6
+    21300014: atlasStones&Bones_7
+    21300016: atlasStones&Bones_8
+    21300018: atlasStones&Bones_9
+    21300020: atlasStones&Bones_10
+    21300022: atlasStones&Bones_11
+    21300024: atlasStones&Bones_12
+    21300026: atlasStones&Bones_13
+    21300028: atlasStones&Bones_14
+    21300030: atlasStones&Bones_15
+    21300032: atlasStones&Bones_16
+    21300034: atlasStones&Bones_17
+    21300036: atlasStones&Bones_18
+    21300038: atlasStones&Bones_19
+    21300040: atlasStones&Bones_20
+    21300042: atlasStones&Bones_21
+    21300044: atlasStones&Bones_22
+    21300046: atlasStones&Bones_23
+    21300048: atlasStones&Bones_24
+    21300050: atlasStones&Bones_25
+    21300052: atlasStones&Bones_26
+    21300054: atlasStones&Bones_27
+    21300056: atlasStones&Bones_28
+    21300058: atlasStones&Bones_29
+    21300060: atlasStones&Bones_30
+    21300062: atlasStones&Bones_31
+    21300064: atlasStones&Bones_32
+    21300066: atlasStones&Bones_33
+    21300068: atlasStones&Bones_34
+    21300070: atlasStones&Bones_35
+    21300072: atlasStones&Bones_36
+    21300074: atlasStones&Bones_37
+    21300076: atlasStones&Bones_38
+    21300078: atlasStones&Bones_39
+    21300080: atlasStones&Bones_40
+    21300082: atlasStones&Bones_41
+    21300084: atlasStones&Bones_42
+    21300086: atlasStones&Bones_43
+    21300088: atlasStones&Bones_44
+    21300090: atlasStones&Bones_45
+    21300092: atlasStones&Bones_46
+    21300094: atlasStones&Bones_47
+    21300096: atlasStones&Bones_48
+    21300098: atlasStones&Bones_49
+    21300100: atlasStones&Bones_50
+    21300102: atlasStones&Bones_51
+    21300104: atlasStones&Bones_52
+    21300106: atlasStones&Bones_53
+    21300108: atlasStones&Bones_54
+    21300110: atlasStones&Bones_55
+    21300112: atlasStones&Bones_56
+    21300114: atlasStones&Bones_57
+    21300116: atlasStones&Bones_58
+    21300118: atlasStones&Bones_59
+    21300120: atlasStones&Bones_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: atlasStones&Bones_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2086
+        width: 237
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2085
+        width: 305
+        height: 323
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2258
+        width: 303
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_3
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2265
+        width: 409
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_6
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 2263
+        width: 344
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_7
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2268
+        width: 316
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_8
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 2275
+        width: 224
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1956
+        width: 358
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_17
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1946
+        width: 210
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_18
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1969
+        width: 302
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_19
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1987
+        width: 264
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_23
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1618
+        width: 516
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_24
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1603
+        width: 693
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_25
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1569
+        width: 722
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1589
+        width: 557
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1094
+        width: 983
+        height: 450
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_35
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1115
+        width: 584
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 790
+        width: 279
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 757
+        width: 159
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_45
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 868
+        width: 201
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_46
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 794
+        width: 246
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_47
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 821
+        width: 327
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_48
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 833
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_49
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 833
+        width: 269
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_50
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 808
+        width: 221
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_51
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 831
+        width: 250
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_52
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 388
+        width: 260
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_53
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 365
+        width: 509
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_54
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 471
+        width: 640
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_55
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 476
+        width: 552
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_56
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 495
+        width: 467
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_58
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 39
+        width: 506
+        height: 366
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_59
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 51
+        width: 392
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_41
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1943
+        width: 315
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasStones&Bones_35
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1119
+        width: 582
+        height: 415
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

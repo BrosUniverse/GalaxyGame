@@ -1,21 +1,23 @@
 fileFormatVersion: 2
-guid: ac4d17d9d87e74d618f8a9f053874d5c
+guid: 26d63897fcf1344f08dccab8fcc7332b
 TextureImporter:
   fileIDToRecycleName:
-    21300000: atlasPlayerSolidIddle(330x256)-01_0
-    21300002: atlasPlayerSolidIddle(330x256)-01_1
-    21300004: atlasPlayerSolidIddle(330x256)-01_2
-    21300006: atlasPlayerSolidIddle(330x256)-01_3
-    21300008: atlasPlayerSolidIddle(330x256)-01_4
-    21300010: atlasPlayerSolidIddle(330x256)-01_5
-    21300012: atlasPlayerSolidIddle(330x256)-01_6
-    21300014: atlasPlayerSolidIddle(330x256)-01_7
-    21300016: atlasPlayerSolidIddle(330x256)-01_8
-    21300018: atlasPlayerSolidIddle(330x256)-01_9
-    21300020: atlasPlayerSolidIddle(330x256)-01_10
-    21300022: atlasPlayerSolidIddle(330x256)-01_11
-    21300024: atlasPlayerSolidIddle(330x256)-01_12
-    21300026: atlasPlayerSolidIddle(330x256)-01_13
+    21300000: atlasPlatform_0
+    21300002: atlasPlatform_1
+    21300004: atlasPlatform_2
+    21300006: atlasPlatform_3
+    21300008: atlasPlatform_4
+    21300010: atlasPlatform_5
+    21300012: atlasPlatform_6
+    21300014: atlasPlatform_7
+    21300016: atlasPlatform_8
+    21300018: atlasPlatform_9
+    21300020: atlasPlatform_10
+    21300022: atlasPlatform_11
+    21300024: atlasPlatform_12
+    21300026: atlasPlatform_13
+    21300028: atlasPlatform_14
+    21300030: atlasPlatform_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,143 +63,163 @@ TextureImporter:
     compressionQuality: 100
   spriteSheet:
     sprites:
-    - name: atlasPlayerSolidIddle(330x256)-01_0
+    - name: atlasPlatform_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 330
-        height: 256
+        x: 58
+        y: 1181
+        width: 249
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_1
+    - name: atlasPlatform_1
       rect:
         serializedVersion: 2
-        x: 330
-        y: 0
-        width: 330
-        height: 256
+        x: 323
+        y: 1173
+        width: 425
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_2
+    - name: atlasPlatform_2
       rect:
         serializedVersion: 2
-        x: 660
-        y: 0
-        width: 330
-        height: 256
+        x: 770
+        y: 1181
+        width: 253
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_3
+    - name: atlasPlatform_3
       rect:
         serializedVersion: 2
-        x: 990
-        y: 0
-        width: 330
-        height: 256
+        x: 1043
+        y: 1193
+        width: 293
+        height: 223
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_4
+    - name: atlasPlatform_4
       rect:
         serializedVersion: 2
-        x: 1320
-        y: 0
-        width: 330
-        height: 256
+        x: 1427
+        y: 1207
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_5
+    - name: atlasPlatform_5
       rect:
         serializedVersion: 2
-        x: 1650
-        y: 0
-        width: 330
-        height: 256
+        x: 1451
+        y: 1251
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_6
+    - name: atlasPlatform_6
       rect:
         serializedVersion: 2
-        x: 1980
-        y: 0
-        width: 330
-        height: 256
+        x: 1725
+        y: 1184
+        width: 425
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_7
+    - name: atlasPlatform_7
       rect:
         serializedVersion: 2
-        x: 2310
-        y: 0
-        width: 330
-        height: 256
+        x: 1473
+        y: 1243
+        width: 18
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_8
+    - name: atlasPlatform_8
       rect:
         serializedVersion: 2
-        x: 2640
-        y: 0
-        width: 330
-        height: 256
+        x: 1503
+        y: 1195
+        width: 42
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_9
+    - name: atlasPlatform_9
       rect:
         serializedVersion: 2
-        x: 2970
-        y: 0
-        width: 330
-        height: 256
+        x: 323
+        y: 867
+        width: 426
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_10
+    - name: atlasPlatform_10
       rect:
         serializedVersion: 2
-        x: 3300
-        y: 0
-        width: 330
-        height: 256
+        x: 811
+        y: 917
+        width: 274
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_11
+    - name: atlasPlatform_11
       rect:
         serializedVersion: 2
-        x: 3630
-        y: 0
-        width: 330
-        height: 256
+        x: 1105
+        y: 914
+        width: 425
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_12
+    - name: atlasPlatform_12
       rect:
         serializedVersion: 2
-        x: 3960
-        y: 0
-        width: 330
-        height: 256
+        x: 1550
+        y: 914
+        width: 270
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: atlasPlayerSolidIddle(330x256)-01_13
+    - name: atlasPlatform_13
       rect:
         serializedVersion: 2
-        x: 4290
-        y: 0
-        width: 330
-        height: 256
+        x: 90
+        y: 39
+        width: 762
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasPlatform_14
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 36
+        width: 1271
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atlasPlatform_15
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 48
+        width: 162
+        height: 803
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
