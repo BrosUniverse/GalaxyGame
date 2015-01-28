@@ -25,9 +25,10 @@ public class PlayerController : MonoBehaviour {
 
 	void JumpStart ()
 	{
+		_jump = false;
+		rigidbody2D.AddForce (Vector2.up * _forceJump);
 		_anim.SetBool ("JumpStart", false);
 		_anim.SetBool ("Grounded", false);
-		rigidbody2D.AddForce (Vector2.up * _forceJump);
 		Debug.Log ("JumpStart");
 	}
 
@@ -78,14 +79,20 @@ public class PlayerController : MonoBehaviour {
 		
 		#endif
 		
-		#if UNITY_EDITOR_WIN
-		
-		_velosityX = Input.GetAxis ("Horizontal");
-		_anim.SetFloat ("Speed", Mathf.Abs (_velosityX));
+		#if UNITY_STANDALONE_WIN
+
+		if (!_jump)
+		{
+			_velosityX = Input.GetAxis ("Horizontal");
+			_anim.SetFloat ("Speed", Mathf.Abs (_velosityX));
+		}
 		
 		if (Input.GetKeyDown(KeyCode.Space))
 		{
+			_jump = true;
+			_velosityX = 0f;
 			_anim.SetBool ("JumpStart", true);
+			transform.parent = null;
 		}
 		
 		rigidbody2D.velocity = new Vector2 (_velosityX *_maxSpeed, rigidbody2D.velocity.y);
@@ -122,6 +129,7 @@ public class PlayerController : MonoBehaviour {
 		{
 			_anim.SetBool ("Grounded", true);
 			_anim.SetBool ("JumpStart", false);
+			transform.parent = __col.gameObject.transform;
 		}
 	}
 }
