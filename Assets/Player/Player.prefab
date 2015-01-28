@@ -29,8 +29,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182428}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 89.6999969, y: 1.58000004, z: 0}
-  m_LocalScale: {x: .800000012, y: .800000012, z: 0}
+  m_LocalPosition: {x: -34.2200012, y: -4.5999999, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -40,7 +40,7 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182428}
-  m_Mass: 1
+  m_Mass: .899999976
   m_LinearDrag: 0
   m_AngularDrag: .0500000007
   m_GravityScale: 1
@@ -102,7 +102,7 @@ MonoBehaviour:
   _buttonJump: {fileID: 0}
   _buttonLeft: {fileID: 0}
   _buttonRight: {fileID: 0}
-  _forceJump: 800
+  _forceJump: 1000
 --- !u!114 &11482428
 MonoBehaviour:
   m_ObjectHideFlags: 1

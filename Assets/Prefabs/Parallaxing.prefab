@@ -39,8 +39,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10950ec3a43764f8ca2673c92791a76f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgrounds: []
-  smoothing: 3
+  backgrounds:
+  - {fileID: 0}
+  - {fileID: 0}
+  smoothing: 1
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

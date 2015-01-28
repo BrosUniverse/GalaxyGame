@@ -24,6 +24,8 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 497184}
+  - 114: {fileID: 11470096}
+  - 61: {fileID: 6170096}
   m_Layer: 0
   m_Name: FlyPlatform_8
   m_TagString: ground
@@ -38,8 +40,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 197182}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.1509285, y: 8.93776131, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: .723431468, y: .723431468, z: .723431468}
   m_Children: []
   m_Father: {fileID: 497184}
   m_RootOrder: 0
@@ -50,12 +52,37 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 197184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 60.4664116, y: -8.67859364, z: 0}
+  m_LocalPosition: {x: 395.540009, y: 12.5299997, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 497182}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!61 &6170096
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197184}
+  m_Enabled: 1
+  m_Material: {fileID: 6200000, guid: 7d173db5df75545c0a3a1b89850284a3, type: 2}
+  m_IsTrigger: 0
+  m_Size: {x: 2.96465683, y: 1.02455902}
+  m_Center: {x: -.0245552063, y: -.0122795105}
+--- !u!114 &11470096
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27edd71f2ac684f659205c4964c846a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _followType: 0
+  _speed: 1
+  _Path: {fileID: 0}
 --- !u!212 &21297184
 SpriteRenderer:
   m_ObjectHideFlags: 1

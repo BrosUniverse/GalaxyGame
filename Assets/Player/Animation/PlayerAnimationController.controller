@@ -842,26 +842,6 @@ Transition:
   m_Solo: 0
   m_Mute: 0
   m_CanTransitionToSelf: 0
---- !u!1101 &110164358
-Transition:
-  serializedVersion: 2
-  m_ObjectHideFlags: 3
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: 
-  m_SrcState: {fileID: 110260806}
-  m_DstState: {fileID: 110226302}
-  m_TransitionDuration: 0
-  m_TransitionOffset: 0
-  m_Conditions:
-  - m_ConditionMode: 5
-    m_ConditionEvent: 
-    m_EventTreshold: 0
-    m_ExitTime: 1
-  m_Atomic: 1
-  m_Solo: 0
-  m_Mute: 0
-  m_CanTransitionToSelf: 0
 --- !u!1101 &110168136
 Transition:
   serializedVersion: 2
@@ -1058,26 +1038,6 @@ Transition:
     m_ConditionEvent: Attack
     m_EventTreshold: 0
     m_ExitTime: 1
-  m_Atomic: 1
-  m_Solo: 0
-  m_Mute: 0
-  m_CanTransitionToSelf: 0
---- !u!1101 &110185664
-Transition:
-  serializedVersion: 2
-  m_ObjectHideFlags: 3
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: 
-  m_SrcState: {fileID: 110226302}
-  m_DstState: {fileID: 110212374}
-  m_TransitionDuration: .25
-  m_TransitionOffset: 0
-  m_Conditions:
-  - m_ConditionMode: 5
-    m_ConditionEvent: 
-    m_EventTreshold: 0
-    m_ExitTime: .75
   m_Atomic: 1
   m_Solo: 0
   m_Mute: 0
@@ -1402,21 +1362,6 @@ State:
   m_IKOnFeet: 0
   m_Mirror: 0
   m_Tag: 
---- !u!1102 &110226302
-State:
-  m_ObjectHideFlags: 3
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: PlayerAnimationGasWindup
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Motions:
-  - {fileID: 7400000, guid: ddf3ce26c5d8a40e5a5667b310e6ff90, type: 2}
-  m_ParentStateMachine: {fileID: 110761872}
-  m_Position: {x: 840, y: 300, z: 0}
-  m_IKOnFeet: 0
-  m_Mirror: 0
-  m_Tag: 
 --- !u!1102 &110230278
 State:
   m_ObjectHideFlags: 3
@@ -1655,14 +1600,9 @@ StateMachine:
   - {fileID: 110203938}
   - {fileID: 110289940}
   - {fileID: 110252452}
-  - {fileID: 110226302}
   m_ChildStateMachine: []
   m_ChildStateMachinePosition: []
   m_OrderedTransitions:
-    data:
-      first: {fileID: 110226302}
-      second:
-      - {fileID: 110185664}
     data:
       first: {fileID: 110240938}
       second:
@@ -1720,7 +1660,6 @@ StateMachine:
       - {fileID: 110191628}
       - {fileID: 110198060}
       - {fileID: 110168580}
-      - {fileID: 110164358}
     data:
       first: {fileID: 110210376}
       second:
