@@ -78,7 +78,7 @@ public class PlayerController : MonoBehaviour {
 		
 		#endif
 		
-		#if UNITY_EDITOR_OSX
+		#if UNITY_EDITOR_WIN
 		
 		_velosityX = Input.GetAxis ("Horizontal");
 		_anim.SetFloat ("Speed", Mathf.Abs (_velosityX));
