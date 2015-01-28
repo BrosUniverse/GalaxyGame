@@ -72,12 +72,6 @@ public class EnemySolidAi : MonoBehaviour {
 		_esm = GetComponent<EnemyStateMashine> ();
 	}
 
-	// Use this for initialization
-	void Start () 
-	{
-		_anim = GetComponent<Animator>();
-	}
-	
 	// Update is called once per frame
 	void Update () 
 	{
@@ -86,16 +80,6 @@ public class EnemySolidAi : MonoBehaviour {
 			int __action = ChooseAnAction ();
 			PerformAnAction (__action);
 		}
-	}
-
-	void FixedUpdate () 
-	{
-
-	}
-
-	void OnCollisionEnter2D (Collision2D __col) 
-	{
-
 	}
 
 	void OnTriggerEnter2D (Collider2D __col)

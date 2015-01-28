@@ -1,14 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Parallaxing : MonoBehaviour {
 
-	public Transform[] backgrounds;
+	//public Transform[] backgrounds;
+	public List<Transform> backgrounds;
 	private Transform cam;
 	private Vector3 prevCamPosition;
 
-	private float[] parallaxScales;
+	//private float[] parallaxScales;
+	private List<float> parallaxScales;
 	public float smoothing = 1f;
+
+	public void AddNewBackground (Transform __background)
+	{
+		backgrounds.Add (__background);
+		parallaxScales.Add (backgrounds[backgrounds.Count - 1].position.z * -1);
+	}
 
 	void Awake ()
 	{
@@ -19,11 +28,13 @@ public class Parallaxing : MonoBehaviour {
 
 		prevCamPosition = cam.position;
 
-		parallaxScales = new float[backgrounds.Length];
+		//parallaxScales = new float[backgrounds.Count];
+		parallaxScales = new List<float>(backgrounds.Count);
 
-		for (int i = 0; i < backgrounds.Length; i++)
+		for (int i = 0; i < backgrounds.Count; i++)
 		{
-			parallaxScales[i] = backgrounds[i].position.z * -1;
+			//parallaxScales[i] = backgrounds[i].position.z * -1;
+			parallaxScales.Add(backgrounds[i].position.z * -1);
 		}
 
 	}
@@ -31,7 +42,7 @@ public class Parallaxing : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		for (int i = 0; i < backgrounds.Length; i++)
+		for (int i = 0; i < backgrounds.Count; i++)
 		{
 			float parallax = (prevCamPosition.x - cam.position.x) * parallaxScales[i];
 
