@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour {
 
 	private bool _jump = false;
 
-	public float _forceJump = 1000f;
+	public float _forceJump = 800f;
 	private float _maxSpeedJump = 2f;
 
 	private float _distToGround;
@@ -71,7 +71,10 @@ public class PlayerController : MonoBehaviour {
 			
 			if (_buttonJump.HitTest (__touch.position) && __touch.phase == TouchPhase.Began)
 			{
+				_jump = true;
+				_velosityX = 0f;
 				_anim.SetBool ("JumpStart", true);
+				transform.parent = null;
 			}
 		}
 		
@@ -79,7 +82,7 @@ public class PlayerController : MonoBehaviour {
 		
 		#endif
 		
-		#if UNITY_STANDALONE_WIN
+		#if UNITY_EDITOR_OSX
 
 		if (!_jump)
 		{
@@ -130,6 +133,14 @@ public class PlayerController : MonoBehaviour {
 			_anim.SetBool ("Grounded", true);
 			_anim.SetBool ("JumpStart", false);
 			transform.parent = __col.gameObject.transform;
+		}
+	}
+
+	void OnCollisionExit2D (Collision2D __col)
+	{
+		if (__col.gameObject.tag == "ground")
+		{
+			_anim.SetBool ("Grounded", false);
 		}
 	}
 }

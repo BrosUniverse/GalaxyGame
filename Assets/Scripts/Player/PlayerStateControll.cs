@@ -17,7 +17,6 @@ public class PlayerStateControll : MonoBehaviour {
 	};
 
 	public int _currentPlayerPhysState;
-	public float _forceJump = 800f;
 
 	private Animator _anim;
 
@@ -69,7 +68,7 @@ public class PlayerStateControll : MonoBehaviour {
 			{
 				Debug.Log("Go to Gas");
 				_currentPlayerPhysState = (int)kPlayerStates.kPlyerPhysicalStateGas;
-				gameObject.GetComponent<BoxCollider2D>().enabled = true;
+				gameObject.GetComponent<BoxCollider2D>().enabled = false;
 				_anim.SetInteger("State", 2);
 			}
 		}
@@ -168,28 +167,29 @@ public class PlayerStateControll : MonoBehaviour {
 			}
 		}
 
-		if (__col.gameObject.tag == "FlowDown" && _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid)
+		if (__col.gameObject.tag == "GeyserCave" && (_currentPlayerPhysState == (int)kPlayerStates.kPlyerPhysicalStateGas || _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid))
 		{
-			Debug.Log ("FlowDown");
+			Debug.Log ("GeyserCave");
 			gameObject.GetComponent<CircleCollider2D>().radius = 0.1f;
+			gameObject.GetComponent<BoxCollider2D>().size = new Vector3 (0.1f, 0.1f, 0f);
 		}
 	}
 
 	void OnTriggerExit2D (Collider2D __col)
 	{
-		if (__col.gameObject.tag == "FlowDown" && _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid)
+		if (__col.gameObject.tag == "GeyserCave" && (_currentPlayerPhysState == (int)kPlayerStates.kPlyerPhysicalStateGas || _currentPlayerPhysState == (int)kPlayerStates.kPlayerPhisicalStateLiquid))
 		{
-			Debug.Log ("FlowDown");
 			gameObject.GetComponent<CircleCollider2D>().radius = 0.395f;
+			gameObject.GetComponent<BoxCollider2D>().size = new Vector3 (0.49f, 1.58f, 0f);
 		}
 	}
 
 	void OnTriggerStay2D (Collider2D __col)
 	{
-		if (__col.gameObject.tag == "Windup" && _currentPlayerPhysState == (int)kPlayerStates.kPlyerPhysicalStateGas)
+		if ((__col.gameObject.tag == "Windup" || __col.gameObject.tag == "GeyserCave") && _currentPlayerPhysState == (int)kPlayerStates.kPlyerPhysicalStateGas)
 		{
 			Debug.Log ("Windup");
-			rigidbody2D.AddRelativeForce (Vector2.up * 15.5f);
+			rigidbody2D.AddRelativeForce (Vector2.up * 40f);
 		}
 	}
 }

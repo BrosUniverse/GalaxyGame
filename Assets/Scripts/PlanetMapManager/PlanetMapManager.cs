@@ -6,7 +6,7 @@ public class PlanetMapManager : MonoBehaviour {
 	public void LoadLevel ()
 	{
 		Debug.Log ("LoadLevel_1");
-		Application.LoadLevel ("testing");
+		Application.LoadLevel ("Level_1");
 	}
 
 	public void Back ()

@@ -8,7 +8,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 407152}
-  - 60: {fileID: 6007152}
+  - 61: {fileID: 6173014}
   m_Layer: 0
   m_Name: Flow Down
   m_TagString: FlowDown
@@ -23,13 +23,13 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 107152}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 95.6600037, y: 1.13, z: 0}
+  m_LocalPosition: {x: 260.679993, y: -.730000019, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!60 &6007152
-PolygonCollider2D:
+--- !u!61 &6173014
+BoxCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -37,18 +37,8 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Poly:
-    m_Paths:
-    - - {x: -.128684998, y: -.489021182}
-      - {x: .693702698, y: -.334387422}
-      - {x: .664924622, y: -.965165496}
-      - {x: .017906189, y: -.919314742}
-      - {x: -.0445175171, y: -4.92680407}
-      - {x: -.356765747, y: -4.91043377}
-      - {x: -.297813416, y: -1.43831694}
-      - {x: -.477485657, y: -.97446394}
-      - {x: -.906517029, y: -.979244828}
-      - {x: -.89591217, y: -.334387362}
+  m_Size: {x: .475257635, y: 1.0865798}
+  m_Center: {x: -.142089844, y: .145425558}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

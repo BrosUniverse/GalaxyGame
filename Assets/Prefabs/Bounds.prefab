@@ -37,8 +37,8 @@ BoxCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Size: {x: 19.0714626, y: 6.886518}
-  m_Center: {x: 5.83522511, y: 1.0798521}
+  m_Size: {x: 19.0714626, y: 12.04776}
+  m_Center: {x: 5.83522511, y: -1.50077212}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -25,6 +25,7 @@ public class FollowPath : MonoBehaviour {
 		if (_Path == null)
 		{
 			Debug.Log ("Path not be null");
+			return;
 		}
 
 		_currentPath = _Path.GetPathDefinition ();

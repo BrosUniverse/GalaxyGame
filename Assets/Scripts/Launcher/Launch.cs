@@ -16,6 +16,6 @@ public class Launch : MonoBehaviour {
 	public void LaunchGame ()
 	{
 		Debug.Log ("Launch");
-		Application.LoadLevel ("Galaxy");
+		Application.LoadLevel ("Level_1");
 	}
 }

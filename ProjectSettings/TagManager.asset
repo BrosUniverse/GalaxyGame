@@ -30,8 +30,11 @@ TagManager:
   - EnemyGas
   - SpaceShip
   - Gasolin
+  - Windup
+  - FlowDown
   - 
-  - 
+  - Panel
+  - GeyserCave
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
